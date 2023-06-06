@@ -1,0 +1,5 @@
+[&Y-01-01 12:19:19.827811][INFO][18556][C:\Users\Armand\Desktop\NanoLog\Project1\test.cpp:main:7]Sample NanoLog : 0
+[&Y-01-01 12:19:19.827835][INFO][18556][C:\Users\Armand\Desktop\NanoLog\Project1\test.cpp:main:7]Sample NanoLog : 1
+[&Y-01-01 12:19:19.827837][INFO][18556][C:\Users\Armand\Desktop\NanoLog\Project1\test.cpp:main:7]Sample NanoLog : 2
+[&Y-01-01 12:19:19.827839][INFO][18556][C:\Users\Armand\Desktop\NanoLog\Project1\test.cpp:main:7]Sample NanoLog : 3
+[&Y-01-01 12:19:19.827841][INFO][18556][C:\Users\Armand\Desktop\NanoLog\Project1\test.cpp:main:7]Sample NanoLog : 4
